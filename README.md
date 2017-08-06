@@ -1,6 +1,6 @@
 [![standard-readme compliant](https://img.shields.io/badge/Project-game-green.svg?style=flat-square)](https://github.com/Hipparch/game)
 
-#### TEST SERVER: `http://game.my-object.ru`
+#### TEST SERVER: `https://game.my-object.ru`
 
 ## USERS
   <blockquote>
